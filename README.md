@@ -40,5 +40,5 @@ This repository focuses on applying **modern CSS and SCSS techniques** alongside
 Feel free to **clone, explore, and reuse** the code for learning or practice.
 
 ```bash
-git clone <https://github.com/sbondok/personal>
+$ git clone https://github.com/sbondok/personal.git
 ```
